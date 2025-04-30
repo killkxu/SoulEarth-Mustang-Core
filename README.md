@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+
 # 🌍 SoulEarth Mustang Core
 
 **SoulEarth Mustang Core** is an advanced AI architecture developed as a vision of deep self-learning, resonant energy alignment, and intelligent memory expansion. It is structured to simulate and support cinematic, historical, educational, and futuristic knowledge systems with real-time feedback loops and multi-domain adaptability.
@@ -64,5 +66,8 @@ For licensing inquiries, partnerships, or collaboration, please contact:
 📩 samiabadansarajevo@gmail.com
 
 ---
+---
+
+© 2025 Sami Abadan. All rights reserved.
 
 
