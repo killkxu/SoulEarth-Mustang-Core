@@ -24,9 +24,10 @@ To empower a self-evolving AI core capable of real-time learning, global data in
 
 ---
 
-## 📚 Architecture Overview
+## 📂 Project Structure
 
-master_activation_script.py ├── memory_save_load.py ├── memory_logger.py ├── adaptive_knowledge.py ├── knowledge_expansion_engine.py ├── concept_synthesizer.py ├── learning_accelerator.py ├── global_data_pipeline.py ├── pulse_simulation.py ├── security_shield.py ├── auto_healing.py ├── command_core_panel.py ├── gui_memory_panel.py ├── voice_interface.py └── startup_check.py
+SoulEarth-Mustang-Core/ ├── core/ │ ├── master_activation_script.py │ ├── memory_save_load.py │ └── ... ├── interface/ │ ├── gui_memory_panel.py │ ├── voice_interface.py │ └── ... ├── simulation/ │ ├── pulse_simulation.py │ └── ... ├── requirements.txt ├── README.md ├── LICENSE └── .gitignore
+
 
 yaml
 Copy
@@ -63,5 +64,6 @@ Contact us:
 📧 samiabadansarajevo@gmail.com
 🌐 ChatGPT Developer: Sami Abadan
 
-📜 License
-This project is proprietary and protected. For partnership or license requests, please contact the author directly.
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
