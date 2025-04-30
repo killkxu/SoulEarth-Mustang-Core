@@ -61,7 +61,6 @@ Integrates with:
 Do you want to co-create the next phase of human–AI synergy?
 Contact us:
 📧 samiabadansarajevo@gmail.com
-📧 sabadan@usagm
 🌐 ChatGPT Developer: Sami Abadan
 
 📜 License
