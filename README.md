@@ -51,4 +51,18 @@ If you're inspired or have questions, contact us at:
 🔗 [GitHub Discussions](https://github.com/SoulEarth-Mustang-Core/SoulEarth-Mustang-Core/discussions)
 
 ---
+---
+
+## ⚖️ Legal & Licensing
+
+© 2025 Sami Abadan. All rights reserved.
+
+This project and all associated code, documentation, and designs are protected by copyright and intellectual property law.  
+Unauthorized use, reproduction, or redistribution of any part of this repository is strictly prohibited without prior written consent.
+
+For licensing inquiries, partnerships, or collaboration, please contact:  
+📩 samiabadansarajevo@gmail.com
+
+---
+
 
